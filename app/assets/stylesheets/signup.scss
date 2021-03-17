@@ -1,0 +1,280 @@
+
+#signup-bg{
+    body{
+        background-color: white;
+        
+    }
+    height: 40vh;
+}
+
+.hr1 {
+  border-top: 1px solid #b6b3b3;
+  margin-top: 13px;
+  opacity: 0.4;
+}
+
+
+.content-top{
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 13px;
+    color: #333333;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+}
+
+.content{
+    position: relative;
+    left: 40%;
+    width: auto;
+    height: auto;
+}
+
+.devices{
+    height: 60px;
+    width: 260px;
+    margin-top: 85px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.finish{
+    text-align: center;
+    font-size: 21px;
+    color: #333333;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+}
+
+.signupwords{
+    text-align: center;
+    font-size: 17px;
+    color: #333333;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    margin-bottom: -7px;
+}
+
+.continue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 28px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    border-radius: 2px;
+    border: none;
+    background-color: #e50914;
+    height: 48px;
+    width: 340px;
+    font-size: 16px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: underline; 
+    text-decoration-color: #e50914
+}
+
+.continue:hover{
+    cursor: pointer;
+}
+
+.logosignup{
+    width: 200px;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.footersignup{
+    background-color: #f3f3f3;
+    margin-bottom: 100px;
+}
+
+.hr2 {
+border-top: 1px solid b6b3b3;
+  margin-bottom: 23px;
+  color: b6b3b3;
+}
+
+.container-signup {
+    display:flex;
+    height: auto; 
+    width: 400px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.itsfree{
+    margin-top: -10px;;
+    margin: auto;
+    border-radius: 1px;
+    border: none;
+    background-color: #0071eb;
+    height: 4.8vh;
+    width: 440px;
+    font-size: 16px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+}
+
+.itsfree:hover{
+    cursor: pointer;
+}
+
+.strong{
+    font-weight: bold;
+}
+
+.completesignupbutton{
+    display: block;
+    margin-top: 28px;
+    border-radius: 2px;
+    border: none;
+    background-color: #e50914;
+     height: 4vh;
+    width: 440px;
+    font-size: 16px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+}
+
+.completesignupbutton:hover{
+    cursor: pointer;
+}
+
+.signup-pw{
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 2px;
+    padding-left: 25px;
+    border: 1px solid gray;
+    background-color:white;
+    height: 4.6vh;
+    width: 410px;
+    font-size: 16px;
+    color: black;
+}
+
+.ordont{
+    font-size: 19px;
+    color: #333333;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    margin-bottom: -7px;
+}
+
+.createpw{
+    font-size: 21px;
+    color: #333333;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+}
+
+.signupstep{
+    display: block;
+    margin-top: 4.0vh;
+    font-size: 13px;
+    color: #333333;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+}
+
+.logosignup{
+    width: 200px;
+    height: auto;
+    margin-left: 73px;
+    margin-top: 30px;
+}
+
+.justify{
+    justify-content: space-between;
+}
+
+.demologin{
+    float: right;
+    margin-top: -35px;
+    margin-right: 85px;
+    color: black;
+    font-size: 19px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.demologin:hover{
+    text-decoration: underline;
+}
+
+.signupfooter{
+    background-color:#f3f3f3;
+    height: 115px;
+    border-top: 1px solid #dbd6cd;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footertop{
+    color: #959292;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    font-size: 16px;
+    padding: 0;
+    margin-top: 30px;
+    margin-left: 3.24%;
+    margin-bottom: 5px;
+}
+
+.footeritems{
+    color: #b6b3b3;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    display: inline;
+    padding: 10px;
+    margin-left:2.85%;
+    list-style-type: none;
+    line-height: 4em;
+}
+
+.footeritems2{
+    color: #b6b3b3;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    display: inline;
+    padding: 10px;
+    margin-left:2.85%;
+    list-style-type: none;
+    line-height: 4em;
+}
+
+.footeritems3{
+    color: #b6b3b3;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    display: inline;
+    padding: 10px;
+    margin-left:6.52%;
+    list-style-type: none;
+    line-height: 4em;
+}
+
+.errorssignup{
+    color: #b92d2b;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    text-align: left;
+    margin-bottom: -6px;
+    padding: 6px 3px;
+}
+
+.footeritems4{
+    color: #b6b3b3;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;;
+    display: inline;
+    padding: 10px;
+    margin-left:3.1%;
+    list-style-type: none;
+    line-height: 4em;
+}
